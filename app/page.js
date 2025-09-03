@@ -101,8 +101,8 @@ export default function HomePage() {
 
           <p className='text-xl text-gray-600 mb-8 max-w-3xl mx-auto'>
             Streamline employee suggestions with our comprehensive platform.
-            From submission to implementation, track every idea's journey while
-            driving continuous improvement across your organization.
+            From submission to implementation, track every idea&apos;s journey
+            while driving continuous improvement across your organization.
           </p>
 
           <div className='flex items-center justify-center space-x-4'>
